@@ -1,0 +1,11 @@
+{
+  "name": "eigenlayer-avs-zk-co-processor",
+  "version": "1.0.0",
+  "description": "EigenLayer AVS ZK Co-processor reference stack",
+  "main": "runProcessor.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
